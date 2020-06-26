@@ -1,6 +1,9 @@
 clipboard2markdown
 ==================
 
+Forked from [clipboard2markdown](https://github.com/euangoddard/clipboard2markdown).
+Updated to [turndown](https://github.com/domchristie/turndown) and a few options.
+
 > Easily convert richly formatted text or HTML to
 > [Markdown](http://daringfireball.net/projects/markdown/syntax).
 > Use the clipboard and paste to Markdown with a single keypress.
